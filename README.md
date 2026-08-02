@@ -61,3 +61,13 @@ Building web apps, Android automation, and backend tooling. Always shipping, alw
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=100&section=footer" alt="Footer" />
 </p>
 
+
+---
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aderowski/Aderowski/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aderowski/Aderowski/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Aderowski/Aderowski/output/github-contribution-grid-snake.svg" />
+</picture>
